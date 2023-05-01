@@ -37,4 +37,4 @@ F. false - The === operator performs strict comparison without type coercion, so
 15. The == operator performs type coercion before comparison, while the === operator performs strict comparison without type coercion. 
 
 17. [2,4,6]
-18. 
+19. 1,4,3,2
