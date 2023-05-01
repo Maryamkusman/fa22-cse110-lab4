@@ -10,3 +10,4 @@ part 2:
 9.SyntaxError because i is not accessible outside the loop because of scope of constant.
 10.error because length is not defined
 11. [50, 100, 150]
+12. 
