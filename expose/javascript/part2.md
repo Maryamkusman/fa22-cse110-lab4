@@ -1,11 +1,3 @@
-part 1
-1. values added: 20
-2. final result: 20
-3. values added: 20
-4. error because result can only be accessed within if scope. 
-5. error cannot reassign const 
-6. error cannot access beyond scope and cannot reassing 
-
 part 2: 
 1. the value of i will be printed which is 3, this is the length of prices array. 
 2. error because discountedPrice is only accessible in for loop 
@@ -18,6 +10,3 @@ part 2:
 9.SyntaxError because i is not accessible outside the loop because of scope of constant.
 10.error because length is not defined
 11. [50, 100, 150]
-
-
-
