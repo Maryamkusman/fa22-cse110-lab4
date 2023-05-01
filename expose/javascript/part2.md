@@ -35,3 +35,6 @@ E. true - The == operator performs type coercion, so the true value is converted
 F. false - The === operator performs strict comparison without type coercion, so the true value and the boolean value of 2 are of different types and not equal.
 
 15. The == operator performs type coercion before comparison, while the === operator performs strict comparison without type coercion. 
+
+17. [2,4,6]
+18. 
